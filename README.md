@@ -1,4 +1,4 @@
 # Demo
 This is my first Repo.
 <br>
-Author : Nitish Jain
+Author : Nitish (jain)
